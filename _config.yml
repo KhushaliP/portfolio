@@ -1,12 +1,8 @@
-name: Kylie Ying
-# permalink: /:title/
-# baseurl: https://kylieying.com
+name: Khushali Patel
+permalink: /:title/ver
+
 # baseurl: ""
-permalink: /blog/:title
+#permalink: /blog/:title
 
-# seo tag
-plugins:
-  - jekyll-seo-tag
 
-# Google Analytics
-google_analytics: G-TEEDE1GB8S
+
