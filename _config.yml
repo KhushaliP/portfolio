@@ -1,5 +1,5 @@
 name: Khushali Patel
-permalink: /:title/ver
+permalink: /blog/:title/
 
 # baseurl: ""
 #permalink: /blog/:title
