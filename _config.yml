@@ -1,8 +1,6 @@
 name: Khushali Patel
-permalink: /blog/:title/
+permalink: /blog/:title
 
-# baseurl: ""
-#permalink: /blog/:title
 
 
 
