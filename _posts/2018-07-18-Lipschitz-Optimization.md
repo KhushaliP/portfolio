@@ -18,7 +18,8 @@ In this landscape, Lipschitz continuity ensures that the slopes don't change too
 
 For a function to be Lipschitz continuous, there exists a Lipschitz constant—a positive number denoted as "L." This constant bounds the ratio of the change in the function's values to the distance between points. Simply put, no matter where you are on the landscape, the function won't surprise you too much as you take steps.
 
-The Lipschitz constant, L, provides an upper bound for this rate of change: |f(a) - f(b)| / |a - b| <= L. There are a huge number of reasons this could be useful, and I'll provide illustrative examples showing how it can be used in machine learning.
+The Lipschitz constant, L, provides an upper bound for this rate of change: \[ |f(x) - f(y)| \leq L \cdot \|x - y\| \]
+. There are a huge number of reasons this could be useful, and I'll provide illustrative examples showing how it can be used in machine learning.
 
 1. **Optimization:**
 
@@ -29,7 +30,7 @@ The Lipschitz constant, L, provides an upper bound for this rate of change: |f(a
     A common approach is to use a step size that is inversely proportional to L. Intuitively, this ensures that the step size is smaller when the function changes more rapidly, preventing overshooting.
 
     For example, in gradient descent, the step size (αα) might be chosen as:
-    α=1Lα=L1​
+    α=1/L.​
 
 2. **Robustness to noisy data**
 
