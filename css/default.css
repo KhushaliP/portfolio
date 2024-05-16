@@ -3489,7 +3489,7 @@ button.close{
     border:1px solid #fff;
     border-radius:10px;
     cursor:pointer;
-    background-color:#000\9;
+    background-color:#000;
     background-color:transparent
 }
 .carousel-indicators .active{
@@ -3816,11 +3816,11 @@ body.minimal{
     display:table-cell
 }
 .white-text-container h1,.white-text-container h2,.white-text-container h3,.white-text-container h4,.white-text-container h5,.white-text-container p{
-    text-shadow:0 1px 3px #000;
-    color:#fff
+    text-shadow:0 1px 3px gray;
+    color:#000
 }
 .white-text-container a{
-    color:#fff
+    color:#000
 }
 .section-container-spacer{
     margin-bottom:30px
