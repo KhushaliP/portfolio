@@ -11,7 +11,7 @@ AI is everywhere, optimising our experiences. Picking a new book to read, decidi
 Mission-critical areas like healthcare, finance, policing, eduction, have seen a rise in AI as a decision-making or influencing tool. With this increased use, there is an effort to decrease/remove biases picked up from the data used to train those models. In other words, the goal is to make these AI systems "fair". In the context of decision making, [fairness](https://arxiv.org/pdf/1908.09635) is the absence of any prejudice or favoritism toward an individual or group based on their inherent or acquired characteristics. 
 
 <div class="graphic-container">
-    <img src="https://images.pexels.com/photos/230544/pexels-photo-230544.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" width="60%">
+    <img src="https://images.pexels.com/photos/230544/pexels-photo-230544.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" width="100%">
 </div>
 <div class="graphic-caption">
 </div>
@@ -45,7 +45,7 @@ AI enabled surveillance has been enforced in major Indian cities, doubling up as
 In early April 2021, millions of Hindu pilgrims gathered on the banks of the Ganges river for *Kumbh Mela*, an auspicious religious celebration occurring every 12 years. April 2021 was also the time when India's healthcare system was battling COVID-19. AI enabled cameras zeroed in on faces without masks and bodies that violated the physical distancing protocols. With Covid cases surging past 100,000, AI surveillance was meant to convey a sense of security.
 
 <div class="graphic-container">
-    <img src="https://www.reuters.com/resizer/v2/https%3A%2F%2Farchive-images.prod.global.a201836.reutersmedia.net%2F2021%2F04%2F13%2F2021-04-13T032516Z_39724_MRPRC29UM9QEKZ2_RTRMADP_0_HEALTH-CORONAVIRUS-INDIA-KUMBH.JPG?auth=04723edea18e78de8851b311fdb42a645f913083d81240f2e006b97aaae93b00&width=1920&quality=80" width="60%">
+    <img src="https://www.reuters.com/resizer/v2/https%3A%2F%2Farchive-images.prod.global.a201836.reutersmedia.net%2F2021%2F04%2F13%2F2021-04-13T032516Z_39724_MRPRC29UM9QEKZ2_RTRMADP_0_HEALTH-CORONAVIRUS-INDIA-KUMBH.JPG?auth=04723edea18e78de8851b311fdb42a645f913083d81240f2e006b97aaae93b00&width=1920&quality=80" width="100%">
 </div>
 <div class="graphic-caption">
 </div>
@@ -57,7 +57,7 @@ While the pilgrims of *Kumbh Mela* were not charged for infractions, [1900 civil
 While facial recognition technology may have a chilling effect on protest generally, this effect is felt particularly keenly by communities that are already marginalised. The problem also lies in the opacity of the people implementing this technology. There are currently no safeguards for the public, no redress mechanism, and no legal support or instructions for implementing FRT in India. Delhi police, looking into identifying people involved in civil unrest in northern India in the past few years, said that they would consider [80 percent accuracy and above as a “positive” match](https://www.wired.com/story/delhi-police-facial-recognition/). Inaccuracy, however, is not an Indian problem which can be solved with “better” technology. According to a report by Georgetown Law’s Center on Privacy and Technology, the US Federal Bureau of Investigation’s (FBI) own statistics suggest that [one out of every seven searches of its facial recognition database fails to turn up a correct match](https://www.theguardian.com/world/2016/oct/18/police-facial-recognition-database-surveillance-profiling), meaning the software occasionally produces 50 “potential” matches who are all “innocent”. However, in India there isn’t complete information about all FRT systems and their respective accuracy rates due to a lack of transparency on the part of the government authorities. 
 
 <div class="graphic-container">
-    <img src="https://www.codastory.com/wp-content/uploads/2022/10/Northeast-Delhi-768x513.jpg" width="60%">
+    <img src="https://www.codastory.com/wp-content/uploads/2022/10/Northeast-Delhi-768x513.jpg" width="100%">
 </div>
 <div class="graphic-caption">
 </div>
