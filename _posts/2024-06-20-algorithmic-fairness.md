@@ -1,21 +1,20 @@
 ---
 layout: post
-title: "Fairness of ML models: Case study through an Indian lens"
+title: "Bias and Fairness in Machine Learning: An Indian Case Study"
 description: Algorithmic fairness provides solutions for problems that are largely west-centric. This post points out key problems in developing a framework for fairness without local context.
 summary: Recontextualising fairness in Indian AI/ML space.
 tags: Ethical AI, algorithmic fairness
 ---
 
-AI is everywhere, optimising our experiences. Picking a new book to read, deciding where to eat, what film you want to watch, whom you want to date, and other meaningful activities are now influenced by algorithms. So is high stakes decision making. 
+AI has seamlessly integrated into our lives, optimising our experiences. Picking a new book to read, deciding where to eat, what film you want to watch, whom you want to date, and other meaningful activities are now influenced by algorithms. The influence of AI now extends to high-stakes decision-making too. 
 
-Mission-critical areas like healthcare, finance, policing, eduction, have seen a rise in AI as a decision-making or influencing tool. With this increased use, there is an effort to decrease/remove biases picked up from the data used to train those models. In other words, the goal is to make these AI systems "fair". In the context of decision making, [fairness](https://arxiv.org/pdf/1908.09635) is the absence of any prejudice or favoritism toward an individual or group based on their inherent or acquired characteristics. 
+Mission-critical areas like healthcare, finance, policing, and education, are increasingly relying on AI as a decision-making or influencing tool. With this increased use, there is an effort to mitigate biases picked up from the data used to train those models. In other words, the goal is to make these AI systems "fair". In the context of decision making, [fairness](https://arxiv.org/pdf/1908.09635) is the absence of any prejudice or favoritism toward an individual or group based on their inherent or acquired characteristics. 
 
 <div class="graphic-container">
     <img src="https://images.pexels.com/photos/230544/pexels-photo-230544.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" width="100%">
 </div>
 <div class="graphic-caption">
 </div>
-
 
 
 However, conventional AI fairness centers on Western concepts and histories. The structural injustices (e.g., race and gender), the data (e.g., Imagenet), the measurement scales (e.g., Fitzpatrick scale), the legal tenets (e.g., healthcare, insurance) are West-centric. It is clear that fairness should not be a one-size-fits-all framework for ML developers across the world due to differing local contexts.
@@ -91,7 +90,7 @@ AI in India is seen as a euphoric, aspirational technology, one that is less cri
 
 ## Final Thoughts
 
-India is quickly embracing AI, seeing how state governments nationwide have been proactively advocating for the implementation of AI and smart cities. The key lies in understanding local contexts. ML practitioners must take care to not copy-paste the western normative fairness.Decision-makers, government agencies, companies and other people who are buying these AI tools should recognize that there are serious limits to predictive accuracy, develeop mechanisms for redressal, and ensure that AI systems are not used to reinforce existing power structures.
+India is quickly embracing AI, seeing how state governments nationwide have been proactively advocating for the implementation of AI and smart cities. The key lies in understanding local contexts. ML practitioners must take care to not copy-paste the western normative fairness frameworks.Decision-makers, government agencies, companies and other people who are buying these AI tools should recognize that there are serious limits to predictive accuracy, develop mechanisms for redressal, and ensure that AI systems are not used to reinforce existing power structures.
 
 ### Footnote
 
