@@ -2801,7 +2801,8 @@ tbody.collapse.in{
     }
 }
 .navbar-nav{
-    margin:.25px -15px
+    margin:.25px -15px;
+    background-color: #fff;
 }
 .navbar-nav>li>a{
     padding-top:10px;
